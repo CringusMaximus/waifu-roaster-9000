@@ -1,0 +1,1 @@
+exports.checkfile = function

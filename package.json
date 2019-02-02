@@ -1,0 +1,13 @@
+{
+	"name": "Waifu_Roaster_9000",
+	"version": "0.5.1",
+	"description": "roasts your waifu",
+	"main": "bot.js",
+	"author": "Cringus Maximus#6948",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"discord.js": "^11.4.2",
+		"npm": "^6.4.1",
+		"winston": "^3.1.0"
+	}
+}
